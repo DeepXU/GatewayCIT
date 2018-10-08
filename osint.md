@@ -23,6 +23,5 @@ Reverse image searches allow you to upload an image and search the Web for simil
 
 * [Bing Reverse Image Search](https://www.bing.com/images)
 * [Google Reverse Image Search](https://images.google.com/)
-* [Social Catfish](https://socialcatfish.com/reverse-image-search/?=utm_medium=referral) has a reverse image search tool, but also includes tools to locate social media accounts.
 * [Yandex Reverse Image Search](https://yandex.ru/images) is a Russian search engine, so it might turn up different results than Bing or Google.
 
