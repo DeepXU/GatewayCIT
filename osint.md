@@ -5,6 +5,10 @@
 * [IntelTechniques.com](https://inteltechniques.com/links.html) provides an extensive list of useful tools for performing OSINT.
 * [Wikipedia](https://www.wikipedia.org/) is a great research tool to find basic information about virtually any topic.
 
+## Buscador
+
+[Buscador](https://inteltechniques.com/buscador/) is a GNU/Linux distribution that is focused on OSINT. It has many tools preinstalled to help you gather intelligence on social media accounts, businesses, IP addresses, etc.
+
 ## Archives
 
 * [The Wayback Machine](https://archive.org/web/) allows you to search archives of hundreds of billions of Web pages even after the original website is taken down.
